@@ -1,0 +1,6 @@
+FTTH (Fibre to the home) network planning and recommendation
+• Recommend a FTTH network for selected area which solves manual design issues, service
+provider could seamlessly manage the entire integrated infrastructure.
+• Layers used: Area, demand points, Roads and potenial fiber line, clusterred demand
+• Fibre newtwork design using OLT, ONT, Splitters
+• Used QGIS, OSM (OpenStreetMap), K- means clustering
