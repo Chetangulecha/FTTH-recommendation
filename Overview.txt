@@ -4,3 +4,4 @@ provider could seamlessly manage the entire integrated infrastructure.
 • Layers used: Area, demand points, Roads and potenial fiber line, clusterred demand
 • Fibre newtwork design using OLT, ONT, Splitters
 • Used QGIS, OSM (OpenStreetMap), K- means clustering
+Software supported --> QGIS/ GOogle Earth engine
